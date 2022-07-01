@@ -1,11 +1,11 @@
 # E Ticaret App
 ### Projede Json Server kullanıldı.
 ### [Json Server için tıkla](https://github.com/typicode/json-server)
-####E Ticaret App Image 1
+#### E Ticaret App Image 1
 ![E Ticaret App](https://github.com/mehmetdurdu/ANGULAR-E-Ticaret-App/blob/master/Image/App1.jpg "E Ticaret App Image 1")
-####E Ticaret App Image 2
+#### E Ticaret App Image 2
 ![E Ticaret App](https://github.com/mehmetdurdu/ANGULAR-E-Ticaret-App/blob/master/Image/App2.jpg "E Ticaret App Image 2")
-####E Ticaret App Image 3
+#### E Ticaret App Image 3
 ![E Ticaret App](https://github.com/mehmetdurdu/ANGULAR-E-Ticaret-App/blob/master/Image/App3.jpg "E Ticaret App Image 3")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
