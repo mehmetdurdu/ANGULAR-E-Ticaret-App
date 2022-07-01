@@ -1,4 +1,7 @@
-# Shop
+# E Ticaret App
+### Projede Json Server kullanıldı.
+### [Json Server için tıkla](https://github.com/typicode/json-server)
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
