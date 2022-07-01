@@ -2,6 +2,7 @@
 ### Projede Json Server kullanıldı.
 ### [Json Server için tıkla](https://github.com/typicode/json-server)
 
+![E Ticaret App](https://github.com/mehmetdurdu/ANGULAR-E-Ticaret-App/blob/master/Image/App1.jpg "E Ticaret App Image 1")
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
